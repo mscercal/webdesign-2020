@@ -1,0 +1,31 @@
+* {
+    box-sizing: content-box;
+}
+
+body {
+    margin:0px;
+    font-family: cursive, Arial;
+    color: gray;
+}
+
+
+section {
+    padding: 100px;
+    min-height: 20px;
+}
+
+section h1 {
+    text-align: center;
+}
+
+section p {
+    text-align: center;
+    align-content: center;
+}
+
+footer {
+    background-color: black;
+    text-align: center;
+    padding: 10px;
+}
+
